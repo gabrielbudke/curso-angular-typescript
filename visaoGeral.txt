@@ -27,3 +27,10 @@ TypeScript:
         de 'transpile'. É similar a compilação, mas ele traduz entre códigos
         fontes de linguagens similar. O navegador importa o JS resultado dessa
         tradução.
+
+-----------------------------------------------------------
+Quando se inicia um projeto TS do zero é importante ter o arquivo 'tsconfig.json'.
+Esse arquivo vai conter as opções do compilador.
+
+
+
