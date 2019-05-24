@@ -2,8 +2,7 @@ Angular:
     > É um framework para construir aplicações web
     baseadas em HTML5, CSS, JS;
 
-    > Permite organizar essas tecnologias e entregar
-    uma aplicação que executa no browser capaz de consumir um
+    > Permite organizar essas tecnologias e entregar uma aplicação que executa no browser capaz de consumir um
     ou vários serviços disponibilizados pelo servidor
 
     > Construir uma aplicação chamada de client-side
@@ -31,6 +30,27 @@ TypeScript:
 -----------------------------------------------------------
 Quando se inicia um projeto TS do zero é importante ter o arquivo 'tsconfig.json'.
 Esse arquivo vai conter as opções do compilador.
+
+-----------------------------------------------------------
+Funções:
+    > TS imcrementa as funções introduzindo a possibilidade de ter parâmetros e retornos tipados.
+
+    Sintaxe:
+        function useTheForce(name: string): void {
+            console.log('Use the force,' name)
+        }
+
+-----------------------------------------------------------
+Classes e interfaces
+
+    O que é uma Classe ?
+        > São representações de um objeto do mundo real que pode ter caracteristicas ou atributos, e realizar ações que chamamos de métodos.
+
+        > Servem de modelos ou moldes para criação de um objeto.
+
+        > Uma classe é a definição de um objeto. Ela diz o que um objeto vai ter e como ele vai se comportar.
+
+
 
 
 
