@@ -48,9 +48,16 @@ Classes e interfaces
 
         > Servem de modelos ou moldes para criação de um objeto.
 
-        > Uma classe é a definição de um objeto. Ela diz o que um objeto vai ter e como ele vai se comportar.
+        > Uma classe é a definição de um objeto. Ela diz o que um objeto vai ter e como ele vai se comportar. 
 
+-------------------------------------------------------------
+Módulo 
 
+    O que é um módulo ?
+        > Uma unidade que contém classes, interfaces, funções e variáveis com o objetivo de deixar o conteúdo de um arquivo isolado do restante da aplicação.
+
+        > O que é namespace ? 
+            Maneira de organizar o código para evitar colisão de nomes.
 
 
 
