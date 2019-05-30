@@ -2,7 +2,6 @@
     "compileOnSave": true,
     "compilerOptions": {
         "outDir": "dist",
-        "noEmitOnError": false,
-        "watch": true
+        "noEmitOnError": false
     }
 }

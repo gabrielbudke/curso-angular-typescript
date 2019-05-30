@@ -59,5 +59,14 @@ Módulo
         > O que é namespace ? 
             Maneira de organizar o código para evitar colisão de nomes.
 
+--------------------------------------------------------------
+Definição de tipos
+
+    > O Typescript define um padrão onde é possível mapear uma biblioteca qualquer em JS, para ser usada pelos scripts em TS.
+
+    > Esses arquivos possuem a extençao '*.d.ts'
+
+    
+
 
 
